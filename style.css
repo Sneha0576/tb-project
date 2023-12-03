@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&family=Birthstone&family=Bitter&family=Black+Han+Sans&family=Hedvig+Letters+Serif:opsz@12..24&display=swap');
+body{
+    background-color: rgb(236,218,194);
+    @media (max-width:800px) {width: 100%;
+        
+    }
+}
+.navbar{
+    margin-left: 796px;
+    position: relative;
+}
+.img0{position: absolute;
+    
+}
+
+
+
+nav a{
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    
+
+
+}
+nav{
+
+    overflow: hidden;
+    background-color: white;
+}
+
+.heading{
+    font-size: xx-large;
+    color: rgb(48, 47, 47);
+    font-family: 'Black Han Sans', sans-serif;
+
+}
+.box{
+    background-color: rgb(136, 243, 136);
+    width: 170px;
+    border-radius: 30px;
+    margin-left: 100px;
+    height: 50px;
+    text-align: center;
+    font-size: larger;
+    padding-top: 20px;
+    border: solid black 1px;
+    margin-top: 50px;
+}
+.img1{
+    margin-left: 470px;
+    float: right;
+    height: 500px;
+}
+.text{
+    display: inline;
+    font-family: 'BIZ UDMincho', serif;
+}
+.text2{
+    font-size: x-large;
+    font-family: 'Black Han Sans', sans-serif;
+    color: rgb(48, 47, 47);
+
+}
+section{
+    margin-left: 20px;
+}
+.text3{
+    font-size: small;
+    font-family: 'BIZ UDMincho', serif;
+}
+.box2{
+    background-color: rgb(49, 49, 49);
+    width: 1115px;
+    height: 1330px;
+    border: solid black 15px;
+}
+.img2{
+    width: 511.63px;
+    height: 550px;
+    margin-left: 10px;
+    position: relative;
+
+}
+.img3{
+    width: 300px;
+    height: 512px;
+    position: relative;
+}
+.pic{
+    width: 200px;
+    height: 400px;
+    top: -90px;
+    position: relative;
+}
+.text5{
+    color: white;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: large;
+    margin-left: 850px;
+}
+.img4{
+    width: 502px;
+    height: 688px;
+    margin-left: 10px;
+    position: relative;
+    margin-bottom: 40px;
+}
+.img5{
+    width: 488px;
+    height: 730px;
+    position: relative;
+}
+.img6{
+    position: absolute;
+    width: 1000px;
+    height: 250px;
+    left: 80px;
+}
+.text4{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: large;
+    color: white;
+    margin-left: 30px;
+
+}
+.last{
+    width: 588px;
+    height: 279px;
+    margin-left: 200px;
+    margin-top: 120px;
+}
